@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Assignment
 =======
 ![Screenshot (1)](https://github.com/user-attachments/assets/35a1c87e-f099-47e3-bcc9-83cc23441aa4)
